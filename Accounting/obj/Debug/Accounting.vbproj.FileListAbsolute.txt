@@ -1,0 +1,30 @@
+C:\My Files\My.Net\System Core\Accounting\Accounting\bin\Debug\Accounting System.exe.config
+C:\My Files\My.Net\System Core\Accounting\Accounting\bin\Debug\Accounting System.exe
+C:\My Files\My.Net\System Core\Accounting\Accounting\bin\Debug\Accounting System.pdb
+C:\My Files\My.Net\System Core\Accounting\Accounting\bin\Debug\Accounting System.xml
+C:\My Files\My.Net\System Core\Accounting\Accounting\bin\Debug\System.Data.DataSetExtensions.dll
+C:\My Files\My.Net\System Core\Accounting\Accounting\bin\Debug\System.Data.dll
+C:\My Files\My.Net\System Core\Accounting\Accounting\bin\Debug\System.Deployment.dll
+C:\My Files\My.Net\System Core\Accounting\Accounting\bin\Debug\System.dll
+C:\My Files\My.Net\System Core\Accounting\Accounting\bin\Debug\System.Drawing.dll
+C:\My Files\My.Net\System Core\Accounting\Accounting\bin\Debug\System.Windows.Forms.dll
+C:\My Files\My.Net\System Core\Accounting\Accounting\bin\Debug\System.Xml.dll
+C:\My Files\My.Net\System Core\Accounting\Accounting\bin\Debug\System.Xml.Linq.dll
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.frmGLItem.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.frmAccountTitleLedger.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.frmGLGroup.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.MainForm.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.Resources.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.frmTrialBalance.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.frmPostTransaction.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.frmPostingPredefineGL.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.frmTrnAddItem.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.frmTrnTitle.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.frmTrnGroup.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.frmTrnSettingsItems.resources
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting System.exe
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting System.xml
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting System.pdb
+C:\My Files\My.Net\System Core\Accounting\Accounting\obj\Debug\Accounting.vbprojResolveAssemblyReference.cache

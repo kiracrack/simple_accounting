@@ -1,0 +1,151 @@
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\SariSari_Store.frmItems.resources
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\SariSari_Store.MainForm.resources
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\SariSari_Store.Resources.resources
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\SariSari Store.vbproj.GenerateResource.Cache
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\SariSari_Store.frmStoreAccount.resources
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\SariSari_Store.frmJournalEntry.resources
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\SariSari_Store.frmPassbookLedger.resources
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\SariSari_Store.frmCreditAccount.resources
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\SariSari_Store.frmJournalMode.resources
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\SariSari_Store.frmCreditLedger.resources
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\SariSari_Store.frmGeneralSummary.resources
+F:\Kiracrack\SariSari Store\SariSari Store\bin\Debug\MySql.Data.dll
+F:\Kiracrack\SariSari Store\SariSari Store\bin\Debug\System.Data.dll
+F:\Kiracrack\SariSari Store\SariSari Store\bin\Debug\System.Deployment.dll
+F:\Kiracrack\SariSari Store\SariSari Store\bin\Debug\System.dll
+F:\Kiracrack\SariSari Store\SariSari Store\bin\Debug\System.Drawing.dll
+F:\Kiracrack\SariSari Store\SariSari Store\bin\Debug\System.Windows.Forms.dll
+F:\Kiracrack\SariSari Store\SariSari Store\bin\Debug\System.Xml.dll
+F:\Kiracrack\SariSari Store\SariSari Store\bin\Debug\Store Management System.exe.config
+F:\Kiracrack\SariSari Store\SariSari Store\bin\Debug\Store Management System.exe
+F:\Kiracrack\SariSari Store\SariSari Store\bin\Debug\Store Management System.pdb
+F:\Kiracrack\SariSari Store\SariSari Store\bin\Debug\Store Management System.xml
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\Store Management System.exe
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\Store Management System.xml
+F:\Kiracrack\SariSari Store\SariSari Store\obj\Debug\Store Management System.pdb
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\Store Management System.exe.config
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\Store Management System.exe
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\Store Management System.xml
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\Store Management System.pdb
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\Store Management System.exe
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\Store Management System.pdb
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\Store Management System.xml
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\System.Data.dll
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\System.Deployment.dll
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\System.dll
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\System.Drawing.dll
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\System.Windows.Forms.dll
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\System.Xml.dll
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\System.Xml.Linq.dll
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.frmGeneralSummary.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.frmCreditLedger.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.frmJournalMode.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.frmCreditAccount.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.frmPassbookLedger.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.frmStoreAccount.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.frmItems.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.frmJournalEntry.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.MainForm.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.Resources.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari Store.vbproj.GenerateResource.Cache
+F:\Kiracrack\Store\SariSari Store\bin\Debug\Store Management System.exe.config
+F:\Kiracrack\Store\SariSari Store\obj\Debug\Store Management System.exe
+F:\Kiracrack\Store\SariSari Store\obj\Debug\Store Management System.xml
+F:\Kiracrack\Store\SariSari Store\obj\Debug\Store Management System.pdb
+F:\Kiracrack\Store\SariSari Store\bin\Debug\Store Management System.exe
+F:\Kiracrack\Store\SariSari Store\bin\Debug\Store Management System.pdb
+F:\Kiracrack\Store\SariSari Store\bin\Debug\Store Management System.xml
+F:\Kiracrack\Store\SariSari Store\bin\Debug\MySql.Data.dll
+F:\Kiracrack\Store\SariSari Store\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Kiracrack\Store\SariSari Store\bin\Debug\System.Data.dll
+F:\Kiracrack\Store\SariSari Store\bin\Debug\System.Deployment.dll
+F:\Kiracrack\Store\SariSari Store\bin\Debug\System.dll
+F:\Kiracrack\Store\SariSari Store\bin\Debug\System.Drawing.dll
+F:\Kiracrack\Store\SariSari Store\bin\Debug\System.Windows.Forms.dll
+F:\Kiracrack\Store\SariSari Store\bin\Debug\System.Xml.dll
+F:\Kiracrack\Store\SariSari Store\bin\Debug\System.Xml.Linq.dll
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.frmGeneralSummary.resources
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.frmCreditLedger.resources
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.frmJournalMode.resources
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.frmCreditAccount.resources
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.frmPassbookLedger.resources
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.frmStoreAccount.resources
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.frmItems.resources
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.frmJournalEntry.resources
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.MainForm.resources
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.Resources.resources
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari Store.vbproj.GenerateResource.Cache
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.frmStakeholder.resources
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.frmFinancialCapital.resources
+F:\Kiracrack\Store\SariSari Store\obj\Debug\SariSari_Store.frmGLSettings.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.frmGLSettings.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.frmStakeholder.resources
+D:\Kiracrack\MY.NET\Store\SariSari Store\obj\Debug\SariSari_Store.frmFinancialCapital.resources
+E:\VB.net\Store\SariSari Store\bin\Debug\Store Management System.exe.config
+E:\VB.net\Store\SariSari Store\obj\Debug\Store Management System.exe
+E:\VB.net\Store\SariSari Store\obj\Debug\Store Management System.xml
+E:\VB.net\Store\SariSari Store\obj\Debug\Store Management System.pdb
+E:\VB.net\Store\SariSari Store\bin\Debug\Store Management System.exe
+E:\VB.net\Store\SariSari Store\bin\Debug\Store Management System.pdb
+E:\VB.net\Store\SariSari Store\bin\Debug\Store Management System.xml
+E:\VB.net\Store\SariSari Store\bin\Debug\MySql.Data.dll
+E:\VB.net\Store\SariSari Store\bin\Debug\System.Data.DataSetExtensions.dll
+E:\VB.net\Store\SariSari Store\bin\Debug\System.Data.dll
+E:\VB.net\Store\SariSari Store\bin\Debug\System.Deployment.dll
+E:\VB.net\Store\SariSari Store\bin\Debug\System.dll
+E:\VB.net\Store\SariSari Store\bin\Debug\System.Drawing.dll
+E:\VB.net\Store\SariSari Store\bin\Debug\System.Windows.Forms.dll
+E:\VB.net\Store\SariSari Store\bin\Debug\System.Xml.dll
+E:\VB.net\Store\SariSari Store\bin\Debug\System.Xml.Linq.dll
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.frmGLSettings.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.frmStakeholder.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.frmFinancialCapital.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.frmGeneralSummary.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.frmCreditLedger.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.frmJournalMode.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.frmCreditAccount.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.frmPassbookLedger.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.frmStoreAccount.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.frmItems.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.frmJournalEntry.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.MainForm.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari_Store.Resources.resources
+E:\VB.net\Store\SariSari Store\obj\Debug\SariSari Store.vbproj.GenerateResource.Cache
+D:\Kiracrack\MY.NET\Store\SariSari Store\bin\Debug\MySql.Data.dll
+D:\My.Net\Store\SariSari Store\bin\Debug\Store Management System.exe.config
+D:\My.Net\Store\SariSari Store\obj\Debug\Store Management System.exe
+D:\My.Net\Store\SariSari Store\obj\Debug\Store Management System.xml
+D:\My.Net\Store\SariSari Store\obj\Debug\Store Management System.pdb
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmConnectionSetup.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmStakeholder.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmFinancialCapital.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmGeneralSummary.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmCreditLedger.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmJournalMode.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmCreditAccount.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmPassbookLedger.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmStoreAccount.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmItems.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmJournalEntry.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.MainForm.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.Resources.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari Store.vbproj.GenerateResource.Cache
+D:\My.Net\Store\SariSari Store\bin\Debug\Store Management System.exe
+D:\My.Net\Store\SariSari Store\bin\Debug\Store Management System.pdb
+D:\My.Net\Store\SariSari Store\bin\Debug\Store Management System.xml
+D:\My.Net\Store\SariSari Store\bin\Debug\MySql.Data.dll
+D:\My.Net\Store\SariSari Store\bin\Debug\System.Data.DataSetExtensions.dll
+D:\My.Net\Store\SariSari Store\bin\Debug\System.Data.dll
+D:\My.Net\Store\SariSari Store\bin\Debug\System.Deployment.dll
+D:\My.Net\Store\SariSari Store\bin\Debug\System.dll
+D:\My.Net\Store\SariSari Store\bin\Debug\System.Drawing.dll
+D:\My.Net\Store\SariSari Store\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\Store\SariSari Store\bin\Debug\System.Xml.dll
+D:\My.Net\Store\SariSari Store\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmGLSettings.resources
+D:\My.Net\Store\SariSari Store\obj\Debug\SariSari_Store.frmSavingsLedger.resources
+D:\My.Net\System Core\Store\SariSari Store\bin\Debug\Store Management System.exe.config
+D:\My.Net\System Core\Store\SariSari Store\obj\Debug\Store Management System.exe
+D:\My.Net\System Core\Store\SariSari Store\obj\Debug\Store Management System.xml
+D:\My.Net\System Core\Store\SariSari Store\obj\Debug\Store Management System.pdb
